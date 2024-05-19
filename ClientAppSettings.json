@@ -1,5 +1,5 @@
 {
-  "DFIntTaskSchedulerTargetFps": 540,
+  "DFIntTaskSchedulerTargetFps": 75,
   "FFlagHandleAltEnterFullscreenManually": false,
   "FFlagFastGPULightCulling3": true,
   "FFlagPreloadAllFonts": true,
